@@ -31,6 +31,7 @@ h2 {
   gap: 15px;
   justify-content: center;
   justify-items: center;
+  list-style:none;
 
   padding: 2rem 0;
   margin-bottom: 2rem;
@@ -64,4 +65,14 @@ h2 {
   margin: 0 auto;
 
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px;                 
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+  flex: 1;                      
+  margin: 0;                    
 }
